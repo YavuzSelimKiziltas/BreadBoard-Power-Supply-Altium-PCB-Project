@@ -19,6 +19,7 @@
  1 x (1x2) 5mm klemens <br/>
  1 x 7mm Toggle switch (turn on/off the circuit) <br/>
  1 x LM317 DPAK Voltage Regulator <br/> 
+ 2 x 1N4007 Diode <br/ 
  5 x 1.17 kOhm THT resistor 1/4W <br/>
  5 x 120 Ohm R1206 SMD Resistor <br/>
  1 x 1uF Ceramic THT capacitor  <br/>
