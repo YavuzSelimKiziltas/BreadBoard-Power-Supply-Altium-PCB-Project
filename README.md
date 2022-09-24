@@ -7,7 +7,7 @@
  ### Information about PCB:
  I used my very limited inventoryto design so some of the resistors and capacitors connected in parallel/series to obtain original values. <br/> 
  LM317 is used to convert 3-30V input voltage 3.3-5V output voltage and maximum 1.5A output current. <br/>
- 2 Jumper pad will be used to control output voltage on 1x4 Male Headers (3.3V  OFF 5V). <br/>
+ 2 Jumper pad will be used on 1x4 Male Headers to control output voltage (3.3V , OFF , 5V). <br/>
  PCB dimensions are 53.7x35 mm. <br/>
  Board shape and layout is designed to fit right in to the breadboard <br/>
  Polygons are used as much as possible to dissipate to heat.<br/>
