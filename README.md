@@ -1,11 +1,11 @@
 # BreadBoard Power Supply Altium PCB Project
  Altium PCB Fİles for BreadBoard Power Supply Project designed by me <br/>
- This is the first PCB project ı designed from start to end
+ This is the first PCB project i designed from scratch.
  
  ![banner resmi](https://github.com/YavuzSelimKiziltas/BreadBoard-Power-Supply-Altium-PCB-Project/blob/main/Images/On%20BreadBoard.png)
 
  ### Information about PCB:
- I used my very limited inventoryto design so some of the resistors and capacitors connected in parallel/series to obtain original values. <br/> 
+ I used my very limited inventory to design, some of the resistors and capacitors connected in parallel/series to obtain original values. <br/> 
  LM317 is used to convert 3-30V input voltage 3.3-5V output voltage and maximum 1.5A output current. <br/>
  2 Jumper pad will be used on 1x4 Male Headers to control output voltage (3.3V , OFF , 5V). <br/>
  PCB dimensions are 53.7x35 mm. <br/>
